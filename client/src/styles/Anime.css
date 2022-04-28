@@ -1,0 +1,23 @@
+.anime-card {
+  display: flex;
+  gap: 1rem;
+  width: 100%;
+  padding: 0.5rem;
+  text-align: center;
+}
+
+.anime-card:not(:last-child) {
+  margin-bottom: 0.6rem;
+}
+
+.anime-info {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+
+.anime-image {
+  width: 11rem;
+  height: 14rem;
+  border-radius: 0.3rem;
+}

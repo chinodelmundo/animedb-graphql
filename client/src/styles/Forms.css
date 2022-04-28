@@ -1,0 +1,6 @@
+.forms {
+  flex: 1;
+  display: flex;
+  flex-flow: column;
+  background-color: #dbdde1 !important;
+}

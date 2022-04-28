@@ -1,0 +1,11 @@
+body {
+  margin: 0;
+  background-color: #0a2948;
+}
+
+.main {
+  margin: 2rem 3rem;
+  display: flex;
+  gap: 1rem;
+  align-items: flex-start;
+}

@@ -1,0 +1,27 @@
+.new-character-form {
+  display: flex;
+  gap: 1rem;
+  padding-bottom: 0.5rem;
+}
+
+.new-character-info {
+  flex: 1;
+  display: flex;
+  flex-flow: column;
+  gap: 0.7rem;
+}
+
+.new-char-image {
+  max-width: 40%;
+  max-height: 40%;
+  border-radius: 0.3rem;
+}
+
+.messages {
+  margin-bottom: 1rem;
+}
+
+.buttons {
+  display: flex;
+  gap: 0.5rem;
+}

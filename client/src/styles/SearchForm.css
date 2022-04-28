@@ -1,0 +1,11 @@
+.fields {
+  display: flex;
+  gap: 5rem;
+  margin-bottom: 1rem;
+}
+
+.checkboxes {
+  display: flex;
+  flex-flow: column;
+  margin-left: 3rem;
+}

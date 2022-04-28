@@ -1,0 +1,20 @@
+.characters-list {
+  padding: 0.5rem;
+  background-color: #d7d8d9 !important;
+  flex-grow: 2;
+  border: 1px #919191 solid;
+}
+
+.characters-header {
+  padding-bottom: 0.3rem;
+  margin-bottom: 0.4rem;
+  border-bottom: 1px #919191 solid;
+}
+
+.characters {
+  flex-grow: 2;
+  display: flex;
+  gap: 0.5rem;
+  overflow-x: auto;
+  padding-bottom: 0.5rem;
+}

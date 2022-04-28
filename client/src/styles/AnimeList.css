@@ -1,0 +1,10 @@
+.anime-list {
+  flex: 2;
+  max-width: 65%;
+}
+
+.loading-icon {
+  display: flex;
+  justify-content: center;
+  margin-top: 3rem;
+}
